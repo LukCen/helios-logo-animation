@@ -3,4 +3,4 @@ Animated logo I use as my own. Slightly modified from my original Figma project.
 
 Made using Pixi JS
 
-![logo in action]('./public/logo-in-action.mp4')
+![logo in action](./public/logo-in-action.mp4)
